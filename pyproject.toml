@@ -1,0 +1,19 @@
+[project]
+name = "rag-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "atomic-agents>=1.0.25",
+    "chromadb>=0.6.3",
+    "gitpython>=3.1.44",
+    "instructor>=1.7.8",
+    "pydantic>=2.11.1",
+    "pyfiglet>=1.0.2",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.3",
+    "rich>=13.9.4",
+    "textual>=0.89.1",
+    "wget>=3.2",
+]
